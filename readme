@@ -1,0 +1,5 @@
+# Sistema de Login Simples
+
+Aplicação web desenvolvida em PHP com banco de dados MySQL que implementa um sistema básico de autenticação e gerenciamento de usuários. O sistema permite que um usuário faça login, cadastre novos usuários e visualize todos os registros cadastrados em uma tabela.
+
+
